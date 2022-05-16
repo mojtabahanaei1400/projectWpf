@@ -9,6 +9,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
 
             int i = 0;
+            int S = 0;
+            int v = 0;
 
 
         }
